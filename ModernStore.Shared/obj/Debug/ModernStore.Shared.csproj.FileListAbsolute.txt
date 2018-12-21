@@ -1,0 +1,7 @@
+d:\Users\Renato\Videos\Balta\MODERN WEB APPS 2017 - PARTE 1 BACKEND\mwa-api-2017-master\src\ModernStore.Shared\bin\Debug\ModernStore.Shared.dll
+d:\Users\Renato\Videos\Balta\MODERN WEB APPS 2017 - PARTE 1 BACKEND\mwa-api-2017-master\src\ModernStore.Shared\bin\Debug\ModernStore.Shared.pdb
+d:\Users\Renato\Videos\Balta\MODERN WEB APPS 2017 - PARTE 1 BACKEND\mwa-api-2017-master\src\ModernStore.Shared\bin\Debug\FluentValidator.dll
+d:\Users\Renato\Videos\Balta\MODERN WEB APPS 2017 - PARTE 1 BACKEND\mwa-api-2017-master\src\ModernStore.Shared\obj\Debug\ModernStore.Shared.csprojResolveAssemblyReference.cache
+d:\Users\Renato\Videos\Balta\MODERN WEB APPS 2017 - PARTE 1 BACKEND\mwa-api-2017-master\src\ModernStore.Shared\obj\Debug\ModernStore.Shared.csproj.CoreCompileInputs.cache
+d:\Users\Renato\Videos\Balta\MODERN WEB APPS 2017 - PARTE 1 BACKEND\mwa-api-2017-master\src\ModernStore.Shared\obj\Debug\ModernStore.Shared.dll
+d:\Users\Renato\Videos\Balta\MODERN WEB APPS 2017 - PARTE 1 BACKEND\mwa-api-2017-master\src\ModernStore.Shared\obj\Debug\ModernStore.Shared.pdb

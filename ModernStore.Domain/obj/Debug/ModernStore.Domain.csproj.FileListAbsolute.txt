@@ -1,0 +1,11 @@
+d:\Users\Renato\Videos\Balta\MODERN WEB APPS 2017 - PARTE 1 BACKEND\mwa-api-2017-master\src\ModernStore.Domain\bin\Debug\ModernStore.Domain.dll
+d:\Users\Renato\Videos\Balta\MODERN WEB APPS 2017 - PARTE 1 BACKEND\mwa-api-2017-master\src\ModernStore.Domain\bin\Debug\ModernStore.Domain.pdb
+d:\Users\Renato\Videos\Balta\MODERN WEB APPS 2017 - PARTE 1 BACKEND\mwa-api-2017-master\src\ModernStore.Domain\bin\Debug\FluentValidator.dll
+d:\Users\Renato\Videos\Balta\MODERN WEB APPS 2017 - PARTE 1 BACKEND\mwa-api-2017-master\src\ModernStore.Domain\bin\Debug\ModernStore.Shared.dll
+d:\Users\Renato\Videos\Balta\MODERN WEB APPS 2017 - PARTE 1 BACKEND\mwa-api-2017-master\src\ModernStore.Domain\bin\Debug\ModernStore.Shared.pdb
+d:\Users\Renato\Videos\Balta\MODERN WEB APPS 2017 - PARTE 1 BACKEND\mwa-api-2017-master\src\ModernStore.Domain\obj\Debug\ModernStore.Domain.csprojResolveAssemblyReference.cache
+d:\Users\Renato\Videos\Balta\MODERN WEB APPS 2017 - PARTE 1 BACKEND\mwa-api-2017-master\src\ModernStore.Domain\obj\Debug\ModernStore.Domain.Resources.EmailTemplates.resources
+d:\Users\Renato\Videos\Balta\MODERN WEB APPS 2017 - PARTE 1 BACKEND\mwa-api-2017-master\src\ModernStore.Domain\obj\Debug\ModernStore.Domain.csproj.GenerateResource.Cache
+d:\Users\Renato\Videos\Balta\MODERN WEB APPS 2017 - PARTE 1 BACKEND\mwa-api-2017-master\src\ModernStore.Domain\obj\Debug\ModernStore.Domain.csproj.CoreCompileInputs.cache
+d:\Users\Renato\Videos\Balta\MODERN WEB APPS 2017 - PARTE 1 BACKEND\mwa-api-2017-master\src\ModernStore.Domain\obj\Debug\ModernStore.Domain.dll
+d:\Users\Renato\Videos\Balta\MODERN WEB APPS 2017 - PARTE 1 BACKEND\mwa-api-2017-master\src\ModernStore.Domain\obj\Debug\ModernStore.Domain.pdb
